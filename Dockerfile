@@ -1,6 +1,9 @@
 FROM alpine:3.4
-MAINTAINER Arthur Axel fREW Schmidt <frioux@gmail.com>
+MAINTAINER Sterling Hanenkamp <hanenkamp@@gmail.com>
 
+# A slightly modified version of Frew's offlineimap, but adds synclabels to the
+# configuration.
+#
 # Dockerfile defining a robust offlineimap container
 #
 # Copyright 2015 Arthur Axel fREW Schmidt
