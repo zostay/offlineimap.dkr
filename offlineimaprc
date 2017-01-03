@@ -24,6 +24,8 @@ autorefresh = 1
 quick = 10
 localrepository = Local
 remoterepository = gmail-remote
+synclabels = yes
+labelsheader = X-Keywords
 
 [Repository Local]
 type = Maildir
