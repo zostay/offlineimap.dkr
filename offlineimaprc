@@ -25,7 +25,7 @@ quick = 10
 localrepository = Local
 remoterepository = gmail-remote
 synclabels = yes
-labelsheader = X-Label
+labelsheader = Keywords
 
 [Repository Local]
 type = GmailMaildir
